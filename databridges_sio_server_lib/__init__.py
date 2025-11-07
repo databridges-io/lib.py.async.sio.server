@@ -19,7 +19,7 @@
 	limitations under the License.
 """
 
-__version__= "2.0.3"
+__version__= "2.0.4"
 from .dBridges import dBridges
 
 __all__ = ['dBridges']
